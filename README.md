@@ -1,6 +1,6 @@
 # Pandas for Everyone: Python Data Analysis
 
-This repository contains my own notes when studying this book.
+This repository contains my own notes when studying Pandas with this book.
 
 Review: -/5⭐
 
