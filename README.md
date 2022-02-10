@@ -1,4 +1,4 @@
-# Pandas for Everyone: Python Data Analysis by Daniel Y. Chen
+# Pandas for Everyone: Python Data Analysis
 
 This repository contains my own notes when studying this book.
 
